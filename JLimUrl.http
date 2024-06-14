@@ -1,0 +1,6 @@
+@JLimUrl_HostAddress = http://localhost:5222
+
+POST {{JLimUrl_HostAddress}}/api/url/
+Accept: application/json
+
+###
